@@ -5,7 +5,7 @@
 工具会默认导出第一条轨道，其他轨道根据json
 
 json格式
-
+```
 [
   {
     'rownum': 1, 
@@ -16,6 +16,7 @@ json格式
     'typeName': '2'
   }
 ]
+```
 
 rownum    音轨id     从0开始计数
 typeName   导出的音轨名称   xxx.mp3
